@@ -10,8 +10,6 @@ body {
 	text-align: center;
 	margin: auto;
 	width: 960px
-
-
 }
 
 .header {
@@ -19,9 +17,6 @@ body {
 	padding: 20px;
 	margin-top: 20px;
 	margin-bottom: 10px;
-
-	
-
 }
 
 .nav {
@@ -37,7 +32,6 @@ body {
 	height: 300px;
 	width: 495px;
 	position: relative;
-		
 }
 
 .article {
@@ -54,14 +48,16 @@ body {
 .headers {
 	background: #eee;
 	margin-top: 20px;
-	padding-top: auto;
+	padding-top: 1px;
 	height: 60px;
-
 }
 
 .paragraph {
 	background: #eee;
-	margin-top: 10px;
+	margin-top: 5px;
+	padding-top: 1px;
+	height: 60px;
+
 }
 
 .aside {
